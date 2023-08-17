@@ -1,0 +1,62 @@
+[
+ {
+   "Name": "1AC1",
+   "CreatedBy": "danielle.r.love@usace.army.mil",
+   "CreatedOn": "2013-12-30T08:58:02",
+   "Category": "13-51 31 11: Waiting Room",
+   "FloorName": "First Floor",
+   "Description": "CENTRAL WAITING",
+   "ExtSystem": "Autodesk Revit 2014, Build: 20131024_2115(x64)",
+   "ExtObject": "Autodesk.Revit.DB.Architecture.Room",
+   "ExtIdentifier": "3dde7303-5414-4af6-b96b-591f33d44ad6-00061e93",
+   "RoomTag": "n/a",
+   "UsableHeight": 4.57,
+   "GrossArea": 139.7547,
+   "NetArea": 139.7547
+ },
+ {
+   "Name": "1AC2",
+   "CreatedBy": "danielle.r.love@usace.army.mil",
+   "CreatedOn": "2013-12-30T08:58:02",
+   "Category": "13-85 11 11: Corridor",
+   "FloorName": "First Floor",
+   "Description": "CORRIDOR",
+   "ExtSystem": "Autodesk Revit 2014, Build: 20131024_2115(x64)",
+   "ExtObject": "Autodesk.Revit.DB.Architecture.Room",
+   "ExtIdentifier": "3dde7303-5414-4af6-b96b-591f33d44ad6-00062032",
+   "RoomTag": "n/a",
+   "UsableHeight": 4.47,
+   "GrossArea": 19.605,
+   "NetArea": 19.605
+ },
+ {
+   "Name": "1AC3",
+   "CreatedBy": "danielle.r.love@usace.army.mil",
+   "CreatedOn": "2013-12-30T08:58:02",
+   "Category": "13-85 11 11: Corridor",
+   "FloorName": "First Floor",
+   "Description": "CORRIDOR",
+   "ExtSystem": "Autodesk Revit 2014, Build: 20131024_2115(x64)",
+   "ExtObject": "Autodesk.Revit.DB.Architecture.Room",
+   "ExtIdentifier": "3dde7303-5414-4af6-b96b-591f33d44ad6-00062035",
+   "RoomTag": "n/a",
+   "UsableHeight": 2.4,
+   "GrossArea": 16.2935,
+   "NetArea": 16.2935
+ },
+ {
+   "Name": "1AC4",
+   "CreatedBy": "danielle.r.love@usace.army.mil",
+   "CreatedOn": "2013-12-30T08:58:02",
+   "Category": "13-85 11 11: Corridor",
+   "FloorName": "First Floor",
+   "Description": "CORRIDOR",
+   "ExtSystem": "Autodesk Revit 2014, Build: 20131024_2115(x64)",
+   "ExtObject": "Autodesk.Revit.DB.Architecture.Room",
+   "ExtIdentifier": "3dde7303-5414-4af6-b96b-591f33d44ad6-00062038",
+   "RoomTag": "n/a",
+   "UsableHeight": 2.4,
+   "GrossArea": 9.5515,
+   "NetArea": 9.5515
+ }
+]
